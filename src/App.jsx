@@ -1,5 +1,5 @@
 import EditTask from "./components/EditTask";
-import NewTask from "./components/newTask";
+import NewTask from "./components/NewTask";
 import TaskList from "./components/TaskList";
 import { useEffect, useState } from "react";
 
