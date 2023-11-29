@@ -1,0 +1,20 @@
+#root,
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 1rem;
+  width: 100%;
+}
+
+.done {
+  background-color: rgb(119, 142, 235);
+  text-decoration: line-through;
+}
